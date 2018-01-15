@@ -1,0 +1,69 @@
+March 7,2003  Penguin Skin by qUiCkSiLvEr
+
+=============================================================================
+Title                   : Penguin (cute little fellow lol)
+Author                  : qUiCkSiLvEr
+Web Page                : http://www.mindspring.com/~ottalini/qUiCkSiLvEr.htm
+
+Description             : Half-Life (HLDM) Player Model of a Penguin
+
+Additional Credits to   : [USA]Rev for paying for my copy of MilkShape that
+			  let me create this model.
+
+                          Also, to DocRock and and BabyKitKat for inspiring me
+                          to convert this model and create a monster version
+                          for a new map.
+=============================================================================
+
+This is a converted and re-animated player model of a penguin created from a mesh
+that originally came from the OP4 distribution.  The original penguin was a small
+monster model that had a grenade on its back and acted somewhat like a snark.
+
+This model mesh was converted and rescaled, with skeleton and animations
+that were converted and scaled from a variety of different Half-Life models.
+
+All model work was done in Milkshape 1.6.5.
+
+All of the graphics work was done using Microsoft Imager2,
+Wally, Photostyler, mgi Photosuite, and any other tool that
+let me do what I needed.
+
+I created the entire mesh in one session, about 2 hours total time.  The
+animations took another 2 hours and there were several hours checking all
+the animations (LOL, you should have seen what it looked like at Cucamonga
+Chunk O'Phlem with 8 or 10 Penguins fragging 8 or 10 Spongebobs, it was
+totally hilarious!).
+
+This model is a a full sized model.
+
+This model has the following statistics:
+Verticies: 134
+Triangles: 178
+   Groups: 1
+Materials: 1
+   Joints: 24
+
+All in all, an extremely fast and good looking model I think!
+
+Info:
+
+Files included:
+Penguin.mdl - The Penguin model file
+Penguin.bmp - The picture you see when selecting the model in the game
+Penguin.txt - This text file
+
+Place Penguin.mdl, Penguin.bmp, Penguin1.bmp and Penguin.txt in a new folder
+called Penguin, in valve\models\player folder in your Half Life
+directory.
+
+** IMPORTANT NOTICE **
+This model should NOT be distributed in any kind of commercial
+compilation, product or package without my personal approval.
+
+This model CAN otherwise be distributed freely as long as this text
+file is included, unmodified, with the package.
+
+And PLEASE don't extract the skin and draw a mustache or remove the
+clothes from it and release it to the world as yours, don't be lame.
+(thanks to NSi for the notice).
+ 

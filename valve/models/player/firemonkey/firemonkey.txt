@@ -1,0 +1,24 @@
+Fire Monkey V0.5 Deathmatch Model
+3D artist: Fire Monkey
+Description: A monkey with a red face and flamed clothing. Expect updates soon.
+
+Place the firemonkey folder in the
+
+\sierra\half-life\valve\models\player folder.
+
+The .mdl file is the model you will see during play.  The .bmp file is
+necessary for the model to be selectable via the launcher interface.  For
+a player model to be visible to all clients playing, it must be installed on
+the server for it to propogate to all playing clients.
+
+When a model is downloaded from the game server, it does not download the
+.bmp file necessary for selecting the model in the interface: models must be
+deliberately installed by the player.
+
+I am available to take on any skinning challenges, so please E-Mail me at
+specialmonkey@hotmail.com
+
+for more information, downloads, and general editing queries please go to the Phoenix Software
+webpage at:
+
+http://www.geocities.com/TimesSquare/Bunker/7800/

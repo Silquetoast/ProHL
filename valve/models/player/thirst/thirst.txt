@@ -1,0 +1,16 @@
+Skinner/modeler: SlimReapeR
+Skin Name: Thirst
+Model Used: Thirst (base model:Punisher)
+
+
+
+
+Installation of Plugin
+
+Create a folder called thirst  in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+

@@ -1,0 +1,45 @@
+================================================================
+ Evil Ernie
+ by Ben Throop                           email: benthroop@hotmail.com
+................................................................
+
+================================================================
+Title                   : Evil Ernie
+Author                  : Ben Throop
+Email Address           : benthroop@hotmail.com
+ICQ			: 6690085
+
+Description             : Evil Ernie model for Half-Life
+
+Additional Credits to   : Chaos Comics for having their Q2 Model contest
+                          Valve for Half-Life, which has caused me to have No-Life
+                          Mike Cronin for his tutelage
+                          
+Build Time              : Huh?
+================================================================
+
+DESCRIPTION
+
+   A plugin player model for Valve's Half-Life
+
+
+INSTALLATION
+
+   Make a folder called "Ernie" in your Valve/models/players folder. Unzip ernie.mdl 
+   and ernie.bmp into there.
+   
+
+COMMENTS
+
+   I made this originally for Chaos' modeling contest, when I thought the grand prize
+   was a new box. After they downgraded it to a video card or something I lost interest.
+   Half-Life's bones brought him back though.
+   
+
+Let me know if you like it.
+More to come.
+
+DISCLAIMER
+
+This model is intended for the free enjoyment of Half-Life players, and may not be altered or
+sold either individually or part of a collection. Evil Ernie is property of Chaos Comics.

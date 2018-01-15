@@ -1,0 +1,13 @@
+Skinner: SlimReapeR
+Skin Name: Thrall
+Model Used: Punisher by Evil Bastard
+
+
+Installation of Plugin
+
+Create a folder called thrall in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+

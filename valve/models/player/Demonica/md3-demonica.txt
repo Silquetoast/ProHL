@@ -1,0 +1,47 @@
+April 30, 2000
+================================================================
+Model Name              : Demonica
+installation directory  : quake3/baseq3/players/Demonica
+Author                  : CGP
+
+Email Address           : CGP43@aol.com
+
+Web Site                : www.colorgraphixprod.com
+
+Model description       : Here she is again more sinister than ever.
+
+
+Other info              : Four skins, custom sounds, bot support, kitchen sink(...no wait not that)
+
+Additional Credits to   : Thanks to everyone at polycount, Wrath(for the no draw thingy and taking the time to look at her) and everyone else at the message board.)
+
+
+================================================================
+* Play Information *
+
+New Sounds              : YES (courtesy of Barbara Steele from Black Sunday) and Bram Stokers Dracula.
+CTF Skins               : Yes plus one
+Bot Support             : Yes
+
+
+* Construction *
+Poly Count              : 1305
+Vert Count              : 691
+Skin Count              : 4
+Base                    : Modified old Demonica
+Editor used             : built in 3DSMax, Nphernos, Pop-n-fresh
+Known Bugs              : Let me know
+Build/Animation time    : quite a while
+
+
+* How to use this model *
+
+You know what to do.
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Distibute as you wish, but don't change the readme file or anything else and call it your own, play nice. 
+
+

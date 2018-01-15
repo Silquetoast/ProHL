@@ -1,0 +1,21 @@
+        ---------- J O K E R  R A G E ----------
+released 4/20/99 
+
+Model name: JOKERrage
+
+Author: [R.A.G.E.]~AustiN
+
+Model homepage: http://www.geocities.com/timessquare/zone/6462
+
+Installation:Make a folder in Sierra\Half-life\valve\models\player\JOKERrage 
+Copy all files contained in this Zip into it (JOKERrage.mdl, JOKERrage.bmp, JOKERrage.txt)
+
+------------------------------------------------------------
+From the Author============================================
+Well I think this is one of the best skins I've made so far. I go the 
+colours on his shirt changable for team games, and I think it has good
+visibilty too. This skin looks damn evil, but what can u say... It's
+the Joker. He aint dead, and he's seeking revange, Batmman aint 
+around so Gordon better watch his back.
+Drop me a line anytime:   manny@cgocable.net
+-AUSTIN

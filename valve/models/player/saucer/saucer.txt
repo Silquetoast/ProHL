@@ -1,0 +1,36 @@
+11/02/22
+================================================================
+Model Name              : Saucer
+installation directory  : SIERRA\Half-life\valve\models\player\Saucer
+Author                  : Oscar López Botton
+Email Address           : jicecperu@terra.com.pe
+Model description       : A very small alien in a very small flying saucer. He was sent from Nex (xen's satellite) to destroy all the black mesa workers !!!
+Additional Credits to   : Valve and Sierra (you know why...) and Chumbalum's software for the great editor
+
+Thanks to               : My computer, my dog, errmmmm, anybody else.
+================================================================
+* Play Information *
+
+New Sounds              : No
+CTF Skins               : No
+VWEP Support            : No
+
+
+* Construction *
+Poly Count              : Man I don't know
+Vert Count              : ....
+Skin Count              : 1
+Base                    : New model
+Editor used             : Milkshape 3d 1.5.9
+Known Bugs              : the arms clip when shoots or walks, or crawls...
+Build/Animation time    : 2 days
+
+* How to use this model *
+
+Copy the files into "SIERRA\Half-life\valve\models\player\Saucer" folder
+
+* Copyright / Permissions *
+
+Half-Life is a trademark of Valve and Sierra. Do anything with the model.
+
+

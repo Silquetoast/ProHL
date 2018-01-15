@@ -1,0 +1,21 @@
+Spiderman Skin/Model
+
+This is Spiderman using my Blade model which in turn is based on Superman by Austin.
+
+I downloaded a Spiderman skin from the internet and really didn't
+think much of it, so I made my own.
+
+
+
+Place Spiderman.mdl and Spiderman.bmp in a new folder called Spiderman in SIERRA\Half-life\valve\models\player folder.
+
+Other skins by Me:
+Blade
+Batman
+Predator
+Quake_Blade
+
+Feel free to contact me at Oliverbw@owinwood.freeserve.co.uk
+and please distribute this file
+
+Oliver Winwood
