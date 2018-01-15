@@ -1,0 +1,42 @@
++---------------------------+
++ DARTH MAUL (TM) MODEL FOR +
++     H A L F - L I F E     +
++                           +
++   8-28-1999 By Dr.James   +
++---------------------------+
+
+Info:
+-----
+Author:       	Dr. James
+Model Name:   	DARTH MAUL
+Version:       	1.0
+Relaese Date:  	28 August 1999
+Team Colors:   	Yes
+Animations:   	Standard Valve
+Build Time:    	2 Days (>12 hours)
+Programs Used:	MilkShape 3D, PSP 5, MS-Dos Editor
+Files:          DrjMAUL.MDL, DrJMAUL.BMP, DrjMAUL.TXT
+
+Description:
+------------
+This model is based on the movie character Darh Maul. I think you
+all know the Sith Lord. It has got a cloak but no light saber, of
+course. 
+
+Installation:
+-------------
+Put the files DrjMAUL.MDL, DrjMAUL.BMP and DrjMAUL.txt into a
+subfolder called DrjMAUL in your HALF-LIFE\VALVE\MODELS\PLAYER
+directory.
+
+
+Distribution & Comments:
+------------------------
+
+You can distribute this model freely as long as it is unmodified
+and this text file is included.
+If you have and comments, suggestions or whatever - please email
+me at DR.JAMES@GMX.NET!
+
+-----------------------------
+'Darth Maul', 'Star Wars', 'EPISODE I: The Phantom Menace' are Copyright Lucasfilm Ltd.

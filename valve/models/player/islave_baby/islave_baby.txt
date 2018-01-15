@@ -1,0 +1,55 @@
+June 20,2002  islave_baby Skin Converted to HLDM Player by qUiCkSiLvEr
+=============================================================================
+Title                   : islave_baby - the alien slave from the hl single-player game
+					1/2 size small model version
+Author                  : qUiCkSiLvEr
+
+Web Page                : http://www.mindspring.com/~ottalini/qUiCkSiLvEr.htm
+
+Description             : Custom Model for Half-Life
+
+And Special Thanks      : To Demoness for her awesome website and support
+                          be sure to visit www.skinlayer.com
+=============================================================================
+
+This is a converted and customized model I made for myself, probably
+the model that i've been wanting to make since I started playing HL.
+
+The mods are pretty extensive since I had to import all the regular
+player animations and update the bones.  All in all it came out
+pretty awesome.
+
+All of the graphics work was done using Microsoft Imager2,
+Wally, Photostyler, mgi Photosuite, and any other tool that
+let me do what I needed.
+
+All the compiling and decompiling and other bone related work
+was done in Milkshape 1.5.10.
+
+All the texture application was done directly in the very
+nice Half-Life Model Viewer V1.24 by Mete Ciragan.
+
+The total modification took about 3 days from start to
+finish (a few hours total time).
+
+Info:
+
+Files included:
+islave_baby.mdl - The HLDM player version of the game islave_baby model file
+islave_baby.bmp - The picture you see when selecting the model in the game
+islave_baby.txt - This text file
+
+Place islave_baby.mdl, islave_baby.bmp, islave_baby.jpg and islave_baby.txt in a
+new folder called islave_baby, in valve\models\player folder in your Half
+Life directory.
+
+** IMPORTANT NOTICE **
+This model should NOT be distributed in any kind of commercial
+compilation, product or package without my personal approval.
+
+This model CAN otherwise be distributed freely as long as this text
+file is included, unmodified, with the package.
+
+And PLEASE don't extract the skin and draw a mustache or remove the
+clothes from it and release it to the world as yours, don't be lame.
+(thanks to NSi for the notice).

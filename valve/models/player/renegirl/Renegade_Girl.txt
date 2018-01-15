@@ -1,0 +1,40 @@
+Released 06/05/99 - Version 1.00
+
+Author : Chopper (cap97139@strath.ac.uk)
+
+Homepage : http://iris.abacus.strath.ac.uk/~colin/Total_Shutdown/TS.htm
+
+Model Name : Renegade Girl
+
+Files : renegirl.mdl renegirl.bmp Renegade_Girl.txt
+
+Install Info : Unzip to your Sierra\Half-life\valve\models\player folder (it will make a folder called "renegirl")
+
+------------------------------------------------------------------------------------------
+
+Model Info
+
+Face Count : 648 Polygons
+Texture Size : 93.3kb (no Team Colours)
+Programs Used : 3DS Max, Photoshop and MDLViewer 2.1
+
+This is my second model for a Half-Life. It is a single mesh (no seperate arms and hands) again.
+The skeleton is again my own, resized biped. A second version of this model should be out
+in a week or two with a more casual style, jeans and t-shirt.
+All of the animations are Valve's but I am hoping to do some of my own, I want to change 
+the walk and run to give it more of a female feel. There is also some collision with some
+of the weapons models and the chest polygons, and the position of the left hand while holding 
+some of the weapons is a bit out and this is due to the different scaled skeleton, new anims
+will need to be made to fix this when I get around to it. I am happier with the shoulders on
+this model but they could still use a bit of work (maybe in the next model!). 
+
+This model was designed for use in our LAN games on high end computers with Voodoo graphics
+accelerators and works fine on them. I have also tested it in software mode and it works.
+
+The model idea was basically a female model in the style of the previously released Renegade
+model but with a bit more of a gothic style sci-fi look.
+
+
+Thanks to Valve for a great game and for the SDK!
+
+If you distribute this model please include all the files in the zip.

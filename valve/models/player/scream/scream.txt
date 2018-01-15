@@ -1,0 +1,24 @@
+Scream for Half-Life
+-----------------------------------------------------
+Author:       	Aaron Hoffman (Hoffa)
+
+Model Name:   	Scream
+Version:       	1.0
+Relaese Date:  	28 August 1999
+Files:		Scream.mdl Scream.bmp Scream.txt
+Polygons:     	630
+Vertices:     	334
+Team Colors:   	Yes, on the soles of the shoes (look carfully on the menu pic to see the colour).
+Animations:   	Standard Animations
+Programs Used:	3D Studio MAX R2.5, Photoshop 5, StudioMDL
+
+Description:
+This is a model of the Scream character from the film of the same name.  I came up with the idea while playing DM with the crowbar, and thought the Scream model would complement this style of play quite well. 
+
+Installation:
+Put all files into valve/models/player/Scream
+
+Distribution:
+The Scream model can be distributed freely as long as this text file is included.
+---------------------------------------------
+E-mail:	   	Hoffa:	azza@techno.net.au

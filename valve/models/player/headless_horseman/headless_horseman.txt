@@ -1,0 +1,16 @@
+Skinner: SlimReapeR
+Skin Name: Headless_horseman
+Model Used: headless_horseman
+
+
+
+
+Installation of Plugin
+
+Create a folder called headless_horseman  in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+

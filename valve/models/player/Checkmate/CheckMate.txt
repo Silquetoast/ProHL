@@ -1,0 +1,42 @@
+March 18,2003  Counter Strike Hostage Skin Converted to HLDM by qUiCkSiLvEr
+=============================================================================
+Title                   : CheckMate - HLDM player model
+Author                  : Gabor & MZ.MARS with HLDM mods by qUiCkSiLvEr
+
+Web Page                : http://www.mindspring.com/~ottalini/qUiCkSiLvEr.htm
+
+Description             : Converted Player Model for Half-Life DM
+
+All Credit Due          : to Gabor and MZ.MARS for creating this great Model
+=============================================================================
+
+This is converted Counter Strike Hostage Model (one of a complete set).
+
+Basically I updated the animations, but I had to edit some of the mesh to
+eliminate some really really weird arm and shoulderblade distortion thingies.
+
+All the compiling and decompiling was done in Milkshape 1.5.10.
+
+The total modification took about 4 hours from start to finish. 
+
+Info:
+
+Files included:
+CheckMate.mdl - The HLDM player version of the game CheckMate model file
+CheckMate.bmp - The picture you see when selecting the model in the game
+CheckMate.txt - This text file
+
+Place CheckMate.mdl, CheckMate.bmp, CheckMate.jpg and CheckMate.txt in a
+new folder called CheckMate, in valve\models\player folder in your Half
+Life directory.
+
+** IMPORTANT NOTICE **
+This model should NOT be distributed in any kind of commercial
+compilation, product or package without my personal approval.
+
+This model CAN otherwise be distributed freely as long as this text
+file is included, unmodified, with the package.
+
+And PLEASE don't extract the skin and draw a mustache or remove the
+clothes from it and release it to the world as yours, don't be lame.
+(thanks to NSi for the notice).

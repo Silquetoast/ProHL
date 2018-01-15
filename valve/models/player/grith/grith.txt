@@ -1,0 +1,22 @@
+"Grith" Half Life Model by Hydroman
+
+Grith is an intergalactic hero travelling from planet to planet to help the ones in need
+...you all know the type. I don't have time to come up with a better story, and I know you
+wouldn't care even if I did.
+
+Info:
+
+Model by Hydroman.
+My second model, the polycount is a bit on the high side, and it got some problems on the
+hands, I don't know why this is, its not like this in 3dsmax. It's a 100% original model
+and designed by my self.
+
+Skins by Hydroman
+Not much to say here.
+
+Animations by Valve, edited by Hydroman to fit the toewalk. 
+A bunch of animations makes the arms go through the armor.
+
+#vertices:    479
+#triangles:   954
+Textures:     84Kb

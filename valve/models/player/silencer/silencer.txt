@@ -1,0 +1,62 @@
+released 3/26/99 - Version 1.01 (fixed palette problem)
+
+Model name: Silencer
+
+Author: NSi [ nsi@artmaze.com ]
+
+Model homepage: http://www.artmaze.com/nsi
+
+Installation: Make a folder in Sierra\Half-life\valve\models\player named "Silencer" (without quotes). Copy all files contained in this Zip into it (Silencer.mdl, Silencer.bmp, Silencer.txt)
+
+------------------------------------------------------------
+Construction
+	
+	Poly count: 568 tris
+
+	Skins: 1 DM_base with team coloring
+
+	Animation: Valve animations
+
+Programs used
+
+	Basic mesh: Lightwave 5.6
+
+	Skinning, boning and mesh detailing: 3D Studio Max R2.5
+
+	Texture: Photoshop 5.0, Debabelizer Pro 3.0
+	
+	Compiling: StudioMDL
+	
+	Previewing: MDLviewe.exe 1.11 by Valve / Otis
+
+
+About the model:
+
+Silencers are special assault soldiers of the secret Lambda SpecOps Unit. Fitted with light body armor with general terrain camo, Silencers are only deployed when the there's a code 5 emergency, a state which came into activation when physics officer Gordon Freeman dissapeared and alien soldiers started a heavy invation through all of Black Mesa's remaining teleporters.
+They have a Lambda symbol to distinguish them from other Silencer units from other bases. Within a team, they are distinguished by the color of their rank insignia on their right arm and left side of their chest armor plate.
+The Silencer standard issue suit fits both male and female soldiers.
+
+From the auhor:
+
+I wanted to make a player model that was related to the general Half Life environment: a futuristic warrior unit, likely to exist in such a world. There's no cheap camo schemes like a thinner body, all-black skin or anything like that, just a comouflage color scheme that should work close to how it does in the real world. Also, team color support was a must. This is my first low poly model for a game, so there are some details that could have been done better and which I will implement in my next model, which I have already started.
+Feel free to email me to let me know how you like this model.
+
+Thanks:
+
+- Valve Software for making the best FPS game ever.
+
+- Spider from Wavelength for his FAQs which served me as a solid guide, as well as the email he sent me when I needed help.
+
+- Radium for the most kickass Half Life map review site in existence.
+
+- Deadfrog from Deadsoft for the cool little 3DStudio tip regarding vertex link locking.
+
+- The people at the Radium forums who are cool, you know who you are :)
+
+** IMPORTANT **
+
+This model should NOT be distributed in any kind of commercial compilation, product or package without my personal approval.
+This model CAN otherwise be distributed freely as long as this text file is included, unmodified, with the package.
+And PLEASE don't extract the skin and draw a mustache on it and release it to the world as yours, don't be lame.
+
+  - NSi
