@@ -2,6 +2,8 @@
 
 I've organized the files so that all you have to do is dump the files into \steam\steamapps\common\Half-Life\ (except for the shortcut, put that on your desktop)
 
+Be sure to change your sensitivity and stuff in prohl.cfg the "[Change to Your Liking]" tab! Just edit the file with Notepad.
+
 If for some reason they don't end up in the right place, this is where each file goes:
 - rinput folder goes in \Half-Life\
 - valve folder should also go into \Half-Life\

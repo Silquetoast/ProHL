@@ -1,3 +1,3 @@
-I've aranged everything so that all you have to do is put the Half-Life shortcut onto your desktop and dump everything else into here:
- 
-C:\Program Files (x86)\Steam\steamapps\common\Half-Life\
+I've aranged everything so that all you have to do is put the Half-Life shortcut onto your desktop and dump everything else into here:	C:\Program Files (x86)\Steam\steamapps\common\Half-Life\
+
+Be sure to change your sensitivity and stuff in the "[Change to Your Liking]" tab!
