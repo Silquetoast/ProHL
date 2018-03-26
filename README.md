@@ -1,6 +1,6 @@
 ***Installation:***
 
-I've organized the files so that all you have to do is dump the files into \steam\steamapps\common\Half-Life\
+I've organized the files so that all you have to do is dump the files into \steam\steamapps\common\Half-Life\ (except for the shortcut, put that on your desktop)
 
 If for some reason they don't end up in the right place, this is where each file goes:
 - rinput folder goes in \Half-Life\
