@@ -1,5 +1,3 @@
 I've aranged everything so that all you have to do is put the Half-Life shortcut onto your desktop and dump everything else into here:
  
 C:\Program Files (x86)\Steam\steamapps\common\Half-Life\
-
-Launch the game from the shortcut and it will automatically open Half-Life with Rinput.
