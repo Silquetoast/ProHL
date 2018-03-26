@@ -23,8 +23,8 @@ Using these files will replace the following:
 - your autoexec
 - ALL of your binds
 
-If you don't want your crosshairs to be replaced, delete crosshairs.spr in Half-Life\valve\sprites\
+If you don't want your crosshairs to be replaced, delete crosshairs.spr in .\valve\sprites\
 
-If you don't want your autoexec to be replaced, delete the autoexec in Half-Life\valve\ and add the ```exec prohl.cfg``` line to your existing autoexec
+If you don't want your autoexec to be replaced, delete the autoexec in .\valve\ and add the ```exec prohl.cfg``` line to your existing autoexec
 
 If you don't want to replace your binds completely you should edit the config file to how you want it. However, I highly recommend you use mine because a lot of them are crucial to a fast play-style. (Regardless, you should backup your binds before you use prohl.cfg)
