@@ -1,21 +1,19 @@
-Download this package [here](https://www.dropbox.com/sh/wxe7gcxc60ja4ug/AAAT-MJrZc2cK_6Z50wc1uCma?dl=0).
+Download this package [here](https://www.dropbox.com/sh/wxe7gcxc60ja4ug/AAAT-MJrZc2cK_6Z50wc1uCma?dl=1).
 
 # BEFORE YOU USE:
 
 Using these files will replace the following:
 - crosshairs
-- your autoexec
+- ~~your autoexec~~
 - ALL of your binds
 
 If you don't want your crosshairs to be replaced, delete crosshairs.spr in \ProHL\valve\sprites\ before running Install.bat
 
-If you don't want your autoexec to be replaced, delete autoexec.cfg in \ProHL\valve\ and add the ```exec prohl.cfg``` line to your existing autoexec
-
-If you don't want to replace your binds completely you should edit the config file to how you want it. However, I highly recommend you use mine because a lot of them are crucial to a fast play-style. (Regardless, you should backup your binds before you use prohl.cfg)
+If you want to make any changes to my binds, you should add them to the end of userconfig.cfg. However, I highly recommend you use mine because a lot of them are crucial to a fast play-style. (Regardless, you should backup your binds before you use prohl.cfg)
 
 ## INSTALLATION:
 
- __I've organized the files so that all you have to do is dump the files into \steam\steamapps\common\Half-Life\ (except for the shortcut, put that on your desktop)__ All you gotta do is run Install.bat!
+~~I've organized the files so that all you have to do is dump the files into \steam\steamapps\common\Half-Life\ (except for the shortcut, put that on your desktop)~~ All you gotta do is run Install.bat!
 
 Be sure to change your sensitivity and stuff in prohl.cfg the "[Change to Your Liking]" section! Just edit the file with Notepad.
 
