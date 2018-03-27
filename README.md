@@ -1,6 +1,6 @@
 Download this package [here](https://www.dropbox.com/sh/wxe7gcxc60ja4ug/AAAT-MJrZc2cK_6Z50wc1uCma?dl=0).
 
-#BEFORE YOU USE:
+# BEFORE YOU USE:
 
 Using these files will replace the following:
 - crosshairs
@@ -13,13 +13,13 @@ If you don't want your autoexec to be replaced, delete autoexec.cfg in .\valve\ 
 
 If you don't want to replace your binds completely you should edit the config file to how you want it. However, I highly recommend you use mine because a lot of them are crucial to a fast play-style. (Regardless, you should backup your binds before you use prohl.cfg)
 
-##INSTALLATION:
+## INSTALLATION:
 
  __I've organized the files so that all you have to do is dump the files into \steam\steamapps\common\Half-Life\ (except for the shortcut, put that on your desktop)__ All you gotta do is run Install.bat!
 
 Be sure to change your sensitivity and stuff in prohl.cfg the "[Change to Your Liking]" section! Just edit the file with Notepad.
 
-##What can these files do for you?
+## What can these files do for you?
 
 First and foremost, prohl.cfg will give you binds that are crucial to quick gameplay(like instant weapon swaps and forced unscope binds). It will take some getting used to and some keys will seem out of place, but trust me these binds are very effective. If you make an effort to learn the keys you WILL see improvement.
 
