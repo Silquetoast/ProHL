@@ -1,3 +1,5 @@
-I've aranged everything so that all you have to do is put the Half-Life shortcut onto your desktop and dump everything else into here:	C:\Program Files (x86)\Steam\steamapps\common\Half-Life\
+First, run Install.bat by double clicking on it.
 
-Be sure to change your sensitivity and stuff in the "[Change to Your Liking]" tab!
+Second, you should go to your Half-Life install directory (usually it is "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\valve\") and edit the things under [Change to Your Liking]
+
+If Install.bat doesn't work, put the Rinput and Valve folders into \Half-Life\valve\ and put the Half-Life shortcut on your desktop
