@@ -7,9 +7,9 @@ Using these files will replace the following:
 - your autoexec
 - ALL of your binds
 
-If you don't want your crosshairs to be replaced, delete crosshairs.spr in .\valve\sprites\ before running Install.bat
+If you don't want your crosshairs to be replaced, delete crosshairs.spr in \ProHL\valve\sprites\ before running Install.bat
 
-If you don't want your autoexec to be replaced, delete autoexec.cfg in .\valve\ and add the ```exec prohl.cfg``` line to your existing autoexec
+If you don't want your autoexec to be replaced, delete autoexec.cfg in \ProHL\valve\ and add the ```exec prohl.cfg``` line to your existing autoexec
 
 If you don't want to replace your binds completely you should edit the config file to how you want it. However, I highly recommend you use mine because a lot of them are crucial to a fast play-style. (Regardless, you should backup your binds before you use prohl.cfg)
 
