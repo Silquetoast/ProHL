@@ -1,3 +1,5 @@
+(Start by making sure you take all of these files out of the .zip file and place them in a folder on your desktop. you can delete them after running install.bat)
+
 First, run Install.bat by double clicking on it.
 
 Second, you should go to your Half-Life install directory (usually it is "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\valve\") and edit the things under [Change to Your Liking]
