@@ -11,10 +11,9 @@ Second, you should go to your Half-Life install directory (usually it is "C:\Pro
 
 
 Lastly, make sure to launch Half-Life through the shortcut that the installer put on your desktop so that rinput can run. (That's the program that makes your mouse more responsive)
+. If you dont use the icon it won't run with rinput and your mouse will probably feel less responsive.
 
 
-
-If you dont use the icon it won't run with rinput and your mouse will probably feel less responsive.
 
 
 If Install.bat doesn't work, put the Rinput and Valve folders into \Half-Life\valve\ and put the Half-Life shortcut on your desktop
