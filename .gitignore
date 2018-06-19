@@ -309,3 +309,12 @@ valve/sprites/bluejet1.spr
 valve/sprites/e-tele1.spr
 valve/sprites/dexplo.spr
 valve/sprites/bolt1.spr
+valve/voice_ban.dt
+valve/models/player/remapped.bmp
+valve/custom.hpk
+/valve/cl_dlls
+/valve/resource
+/valve/scripts
+/valve/sound
+/valve/sprites
+valve/autoexec.cfg
