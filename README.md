@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 Download the package [here](https://github.com/Silquetoast/ProHL/archive/master.zip)
 
 # BEFORE YOU USE:
@@ -28,4 +26,3 @@ Secondly, prohl.cfg will also adjust some settings that will hopefully increase 
 Probably most importantly, I included rinput.exe and made a .bat file that will run Half-Life with it automatically. Rinput will, in short, make your mouse extremely responsive, which is crucial to playing quickly and accurately. Just put the icon included in the base folder onto your desktop and use it to launch Half-Life from now on.
 
 On the side: This package will also give you new crosshairs(ones that stand out more than the orange ones) and some models just for the heck of it. The models may not sound important but they can be used as camo if you use them right. (Tbh, it's just a pretty dang good collection and I wanted to include them :)
->>>>>>> 89429146ce65c459d41a69f82cb4e8ff5393e0ec
