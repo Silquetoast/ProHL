@@ -1,19 +1,18 @@
-(Start by making sure you take all of these files out of the .zip file and place them in a folder on your desktop. you can delete them after running install.bat)
-
+(Start by making sure you take all of these files out of the .zip file and place 
+them in a folder on your desktop. you can delete them after running install.bat)
 
 
 First, run Install.bat by double clicking on it.
 
+Second, you should go to your Half-Life install directory (usually it is 
+"C:\Program Files (x86)\Steam\steamapps\common\Half-Life\valve\") and edit the
+things under [Change to Your Liking]
+
+Lastly, make sure to launch Half-Life through the shortcut that the installer 
+put on your desktop so that rinput can run. (That's the program that makes your 
+mouse more responsive). If you don't use the icon it won't run with rinput and 
+your mouse will probably feel less responsive.
 
 
-Second, you should go to your Half-Life install directory (usually it is "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\valve\") and edit the things under [Change to Your Liking]
-
-
-
-Lastly, make sure to launch Half-Life through the shortcut that the installer put on your desktop so that rinput can run. (That's the program that makes your mouse more responsive)
-. If you dont use the icon it won't run with rinput and your mouse will probably feel less responsive.
-
-
-
-
-If Install.bat doesn't work, put the Rinput and Valve folders into \Half-Life\valve\ and put the Half-Life shortcut on your desktop
+If Install.bat doesn't work, put the Rinput and Valve folders into 
+\steamapps\common\Half-Life\ and put the Half-Life shortcut on your desktop
