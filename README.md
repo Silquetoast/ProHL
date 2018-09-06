@@ -9,7 +9,7 @@ Using these files will replace the following:
 
 If you don't want your crosshairs to be replaced, delete crosshairs.spr in \ProHL\valve\sprites\ before running Install.bat
 
-If you want to make any changes to my binds, you should add them to the end of userconfig.cfg. However, I highly recommend you use mine because a lot of them are crucial to a fast play-style. (Regardless, you should backup your binds before you use prohl.cfg)
+If you want to make any changes to my binds, you should add them to the end of userconfig.cfg, or by changing prohl.cfg itself. However, I highly recommend you use mine because a lot of them are crucial to a fast play-style. (Regardless, you should backup your binds before you use prohl.cfg)
 
 ## INSTALLATION:
 
