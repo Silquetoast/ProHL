@@ -1,14 +1,19 @@
 @echo off
-copy Half-Life.lnk "%userprofile%\desktop"
+copy "%cd%\contents\Half-Life.lnk" "%userprofile%\desktop"
 cls
 echo Working...
-xcopy %cd% "C:\Program Files (x86)\Steam\steamapps\common\Half-Life" /E /Y /Q
+xcopy "%cd%\contents" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life" /E /Y /Q
 cls
-echo Crosshairs, player models, and the ProHL config file have been added to your Half-Life installation file. 
-echo You'll have new binds the next time you launch the game. Consider editing the [Change to Your Liking] tab 
-echo by opening prohl.cfg with notepad in your Half-Life folder. 
+
 echo.
-echo You'll then want to look over the [Binds] tab to get familliar with your new binds.
+echo Congratulations!
+echo.
+echo Crosshairs, player models, and the ProHL config file have been added to your game. You'll have new binds 
+echo the next time you launch the game. When this window closes, prohl.cfg will open in Notepad. Take that
+echo opportunity to change some things in the [Change to Your Liking] tab. Review your new weapon binds while
+echo you're there, too. They're much different than the default binds.
 echo.
 
 pause
+
+start notepad.exe "%cd%\contents\valve\prohl.cfg"
