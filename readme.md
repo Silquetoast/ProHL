@@ -1,4 +1,4 @@
-Download the package [here](https://github.com/Silquetoast/ProHL/archive/master.zip)
+Download the package [here](https://drive.google.com/file/d/1IwYdHzTwIA1rC_PcXu2nJCTeFXp5bEfk/view?usp=sharing)
 
 # BEFORE YOU USE:
 
