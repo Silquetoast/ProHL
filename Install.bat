@@ -16,4 +16,7 @@ echo.
 
 pause
 
+start %cd%\contents\unix2dos.exe "%cd%\contents\valve\prohl.cfg"
+echo Working...
+timeout /t 5 /nobreak > NUL
 start notepad.exe "%cd%\contents\valve\prohl.cfg"
