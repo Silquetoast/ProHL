@@ -6,4 +6,3 @@ start hl.exe -high -noforceparams
 del /A:H *.dat
 TIMEOUT /t 10 /nobreak
 cd ./rinput/
-start bilingual_kb_support.exe
