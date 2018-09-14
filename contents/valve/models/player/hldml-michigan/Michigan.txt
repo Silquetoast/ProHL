@@ -1,0 +1,33 @@
+7-21-99
+
+================================================================
+
+Model Name              : Michigan
+
+Author                  : Brian "EvilBastard" Collins
+
+Email Address           : Evilb@planetquake.com
+
+Website Address         : http://www.planetquake.com/polycount/cottages/EvilB
+
+Model description       : 
+
+	Big guy, cigar.
+
+
+================================================================
+
+
+* Construction *
+
+Poly Count              : 766 tris.md2 
+
+Skin Count              : 1 DM
+
+Editor used             : 
+		Modeling - lightwave	
+		Skining  - NST
+		Painting - Photoshop, NST
+
+Known Bugs              : None that i know of.
+

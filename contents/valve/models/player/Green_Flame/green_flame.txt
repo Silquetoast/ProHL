@@ -1,0 +1,32 @@
+                                                         Green Flame
+   Txt By RazoRzEdgE*BWP*
+
+Authors : RazoRzEdgE*BWP* and Live*BWP*
+
+Extract to: Half-life dir\valve\models\player\ (i.e. C:\SIERRA\Half-life\valve\models\player\)
+
+How to Use : First extract this zip file to the dir detailed above. To use in game bring up the console (~ or ` key) in a multi-player game and type "model green_flame" (minus the quotes) and press enter...
+
+Base Models : Recon
+
+Con. Time : 7+ days full time
+
+Description : A Green Camo'd Recon, cool shades and face.
+
+Feedback : ICQ 18598939
+
+Notes : First skin for the both of us. BTW you can't change colors for this skin. Sorry guys, but we wanna preserve the army look... Oh and there's no preview of the skin in the multiplayer config thingy, we'd rather make a cooo skin than some silly image, but I did include a jpg image in the zip, check it out to get a preview. 
+
+Thanks to : 1. Valve for creating the best game ever: Half-life
+            2. Clan *BWP* (http://www.halflifehq.com/bwp/) for being such a kick-ass group of ppl
+            3. Latenightgamer for first being really cooo and second for selecting our skin for PCGamer
+            4. Sayitai and G-man both for annoying me and saying stuff like '!!!' and 'adadfsfsf!@#!$@$@!' to me over and over :P
+            5. The Jailbreak HL Team for making a sweeeet f'ing mod!
+            6. radium, we'd all be lost without him!
+            7. PC Accelerator, a sweet gaming mag!!!
+
+** IMPORTANT **
+
+This model should NOT be distributed in any kind of commercial compilation, product, or package without our (e-mail us at homershouse@mediaone.net) personal approval. If you want to use this in you mod you must tell us (e-mail us at homershouse@mediaone.net). We hold the right to refuse you the chance of using our skin.
+This model CAN otherwise be distributed freely as long as this text file is included, unmodified, with the package.
+And PLEASE don't extract the skin modify it a tad and than act like it's your own, that just blows
