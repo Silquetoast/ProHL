@@ -1,4 +1,4 @@
-Download the package [here](https://drive.google.com/file/d/1IwYdHzTwIA1rC_PcXu2nJCTeFXp5bEfk/view?usp=sharing)
+Download the package [here](https://github.com/Silquetoast/ProHL/releases/download/v1.3/ProHL.exe)
 
 # BEFORE YOU USE:
 
