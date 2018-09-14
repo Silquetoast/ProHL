@@ -16,7 +16,8 @@ echo.
 
 pause
 
-start %cd%\contents\unix2dos.exe "%cd%\contents\valve\prohl.cfg"
+cls
 echo Working...
+start %cd%\contents\unix2dos.exe "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\valve\prohl.cfg"
 timeout /t 5 /nobreak > NUL
-start notepad.exe "%cd%\contents\valve\prohl.cfg"
+start notepad.exe "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\valve\prohl.cfg"
