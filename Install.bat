@@ -1,8 +1,7 @@
 @echo off
-copy "%cd%\contents\Half-Life.lnk" "%userprofile%\desktop"
-cls
 echo Working...
-xcopy "%cd%\contents" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life" /E /Y /Q
+copy "%cd%\contents\Half-Life.lnk" "%userprofile%\desktop"
+xcopy "%cd%\contents" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life" /E /Y /Q /C
 cls
 
 echo.
@@ -17,7 +16,7 @@ echo.
 pause
 
 cls
-echo Working...
+echo Opening the .cfg file...
 start %cd%\contents\unix2dos.exe "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\valve\prohl.cfg"
 timeout /t 5 /nobreak > NUL
 start notepad.exe "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\valve\prohl.cfg"
