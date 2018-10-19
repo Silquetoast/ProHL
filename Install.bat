@@ -1,7 +1,14 @@
 @echo off
-echo Working...
+echo Closing Half-Life...
+taskkill /IM hl.exe
+echo Backing up original files...
+copy "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\valve\config.cfg" "%userprofile%\desktop"
+ren "%userprofile%\desktop\config.cfg" backup.cfg
+echo Installing...
 copy "%cd%\contents\Half-Life.lnk" "%userprofile%\desktop"
-xcopy "%cd%\contents" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life" /E /Y /Q /C
+xcopy "%cd%\contents" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life" /E /Y /Q
+echo Cleaning up...
+del "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\unix2dos.exe"
 cls
 
 echo.
@@ -12,7 +19,9 @@ echo the next time you launch the game. When this window closes, prohl.cfg will 
 echo opportunity to change some things in the [Change to Your Liking] tab. Review your new weapon binds while
 echo you're there, too. They're much different than the default binds.
 echo.
-
+echo Be sure to use the shortcut that was placed on your desktop to launch Half-Life from now on. If you don't,
+echo rinput.exe wont launch and your mouse will feel less responsive in comparison. 
+echo.
 pause
 
 cls
