@@ -31,7 +31,6 @@ This pack includes a scripted version of the .cfg, which can be managed using th
 `\ = Re-run unscripted .cfg`
 
 The scripted version of the .cfg will give you the following abilities:
-- increment the following using arrow keys: FPS, volume, mwheelup function
-- shotgun bind will pull out the next best weapon if the shotgun isn't available
-- fast next-weapon commands 
-- force crossbow to unzoom when the crossbow bind is pressed(note: this doesn't have any advantage over doing it manually, as manually offers more control)
+- Increment the following using arrow keys: FPS, volume, mwheelup function
+- Shotgun bind will pull out the next best weapon if the shotgun isn't available
+- Force crossbow to unzoom when the crossbow bind is pressed(note: this doesn't have any advantage over switching weapons manually, as manually offers more control)
