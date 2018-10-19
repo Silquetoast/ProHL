@@ -24,8 +24,11 @@ It will also change some settings such as net_graph (so you can monitor server/c
 
 This pack includes a scripted version of the .cfg, which can be managed using these keys:
 `[ = Deactivate scripts`
+
 `] = Activate scripts`
+
 `\ = Re-run unscripted .cfg`
+
 The scripted version of the .cfg will give you the following abilities:
 - increment the following using arrow keys: FPS, volume, mwheelup function
 - shotgun bind will pull out the next best weapon if the shotgun isn't available
