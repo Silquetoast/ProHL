@@ -23,6 +23,7 @@ The config file will give you completely new binds, which will help promote fast
 It will also change some settings such as net_graph (so you can monitor server/client lag), default_fov(field of vision, it lets you see more), weapon bob, max FPS, rates, mouse options, and some misc settings. 
 
 This pack includes a scripted version of the .cfg, which can be managed using these keys:
+
 `[ = Deactivate scripts`
 
 `] = Activate scripts`
