@@ -34,3 +34,5 @@ The scripted version of the .cfg will give you the following abilities:
 - Increment the following using arrow keys: FPS, volume, mwheelup function
 - Shotgun bind will pull out the next best weapon if the shotgun isn't available
 - Force crossbow to unzoom when the crossbow bind is pressed(note: this doesn't have any advantage over switching weapons manually, as manually offers more control)
+
+I have kept my "scripts" to a minimum because in every case(including gauss movement, longjumps and bunnyhopping) doing things manually and legitimately is always better. You will not find scripts of that kind in my config. If you want to learn to bhop, longjump or move with gauss better, do it yourself rather than through scripts. 
