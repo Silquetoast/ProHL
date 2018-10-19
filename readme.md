@@ -1,6 +1,6 @@
 # BEFORE YOU USE:
 
-It is VERY important for you to note that this package will replace your **crosshairs** and **binds**. 
+It is VERY important for you to note that this package will replace your **crosshairs** and **binds**. However, your binds will be backed up to backup.cfg on your desktop.
 
 If you don't want your crosshairs to be replaced, delete crosshairs.spr in \ProHL\valve\sprites\ before running Install.bat
 
