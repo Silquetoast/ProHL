@@ -11,7 +11,7 @@ If you want to make any personal changes to my binds, you should add/change them
 
 Download the package **[here](https://github.com/Silquetoast/ProHL/releases/download/v1.3/ProHL.exe)**
 
-All you have to do is double click Install.bat! If Install.bat doesn't work, move everything in "contents" to your HL installation (for Steam, it should be "\steamapps\common\Half-Life\"). Then you'll need to put the Half-Life shortcut on your desktop.
+All you have to do is double click Install.bat! If Install.bat doesn't work(or if your Half-Life installation isn't the default C drive Steam directory), move everything in "contents" to your HL installation (for Steam, it should be "\steamapps\common\Half-Life\"). Then you'll need to put the Half-Life shortcut on your desktop.
 
 Be sure to change your sensitivity and stuff in prohl.cfg the `[Change to Your Liking]` section! Just edit the file with Notepad.
 
