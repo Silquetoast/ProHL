@@ -1,6 +1,6 @@
 @echo off
 echo Closing Half-Life...
-taskkill /IM hl.exe /F
+taskkill /IM hl.exe
 echo Backing up original files...
 copy "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\valve\config.cfg" "%userprofile%\desktop"
 ren "%userprofile%\desktop\config.cfg" backup.cfg
