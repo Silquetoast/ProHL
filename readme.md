@@ -20,13 +20,14 @@ If your Half-Life installation isn't the default Steam directory on the C drive,
 
 ## What do these files do?
 
-First, the installer will add rinput.exe to your installation. This program, which only runs when you use the shortcut added to your desktop, will make your mouse VERY responsive. The installer will also add a LOT of models for you to use and new crosshairs that are built for visibility. 
+The installer will add a new icon to your desktop for Half-Life. It'll launch Half-Life with rinput.exe for the most responsive mouse movement you've ever experienced. The installer will also give you lots of models and VERY visible crosshairs. 
 
 The config itself adds the following:
  - hard weapon binds (i.e. f = crossbow, 4 = shotgun, etc.)
  - mousewheel down to jump (for bunnyhopping)
  - mousewheel up to slide (rapid ducking preserves momentum on the ground)
  - uncapped framerate
+ - increased crosshair visibility
  
 The following are optional settings that have to be toggled with the [ and ] keys:
  - hold-to-equip weapon binds (when you let go of the key, you'll go to last weapon) [broken]
