@@ -33,3 +33,5 @@ The following are optional settings that have to be toggled with the [ and ] key
  - hold-to-equip weapon binds (when you let go of the key, you'll go to last weapon) [broken]
  - shotgun bind will equip any other weapon if you don't have a shotgun
  - pressing f will force the crossbow to unzoom (This only effects your vision and does not let you shoot faster. If you TRY to shoot faster, a projectile explosive will fire instead.)
+
+My config does **not** add scripts for gauss movement, bunnyhopping, longjumping, or quick crossbow shots. Learning to do these things manually is more effective, so unless you're lazy or disabled there's no reason to use scrips for those things.
