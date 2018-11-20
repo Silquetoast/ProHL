@@ -20,7 +20,7 @@ If your Half-Life installation isn't the default Steam directory on the C drive,
 
 ## What do these files do?
 
-First, the installer will add rinput.exe to your installation. This program, which only runs when you use the shortcut added to your desktop, will make your mouse VERY responsive. 
+First, the installer will add rinput.exe to your installation. This program, which only runs when you use the shortcut added to your desktop, will make your mouse VERY responsive. The installer will also add a LOT of models for you to use and new crosshairs that are built for visibility. 
 
 The config itself adds the following:
  - hard weapon binds (i.e. f = crossbow, 4 = shotgun, etc.)
