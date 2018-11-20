@@ -9,7 +9,7 @@ If you want to make any personal changes to my binds, you should add/change them
 
 ## INSTALLATION:
 
-- **STEP 1:** Download the package **[here](https://github.com/Silquetoast/ProHL/releases/download/v1.3/ProHL.exe)**
+- **STEP 1:** Download the package **[here](https://github.com/Silquetoast/ProHL/releases/download/v1.4.1/ProHL.exe)**
 
 - **STEP 2:** Double click Install.bat! 
 
