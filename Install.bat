@@ -9,7 +9,7 @@ copy "%cd%\contents\Half-Life.lnk" "%userprofile%\desktop"
 xcopy "%cd%\contents" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life" /E /Y /Q
 echo Cleaning up...
 del "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\unix2dos.exe"
-cls
+rem cls
 
 echo.
 echo Congratulations!
