@@ -6,10 +6,10 @@ copy "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\valve\config.cfg" 
 ren "%userprofile%\desktop\config.cfg" backup.cfg
 echo Installing...
 copy "%cd%\contents\Half-Life.lnk" "%userprofile%\desktop"
-xcopy "%cd%\contents" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life" /E /Y /Q
+xcopy "%cd%\contents" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life" /s /y /q
 echo Cleaning up...
 del "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\unix2dos.exe"
-rem cls
+cls
 
 echo.
 echo Congratulations!
@@ -21,6 +21,8 @@ echo you're there, too. They're much different than the default binds.
 echo.
 echo Be sure to use the shortcut that was placed on your desktop to launch Half-Life from now on. If you don't,
 echo rinput.exe wont launch and your mouse will feel less responsive in comparison. 
+echo.
+echo You may delete the package installer if you want
 echo.
 pause
 
