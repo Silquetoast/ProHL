@@ -1,6 +1,6 @@
 ## INSTALLATION:
 
-- **STEP 1:** Download the package **[here](https://github.com/Silquetoast/ProHL/releases/latest)**
+- **STEP 1:** Download the package **[here](https://github.com/Silquetoast/ProHL/releases/latest)** and extract to your desktop(or somewhere convenient to get to).
 
 - **STEP 2:** Move everything in the "contents" folder to your HL installation (for Steam, it should be "Steam\steamapps\common\Half-Life\") except for the shortcut for HL. (if you don't use the shortcut to run the game, rinput will not activate)
 
