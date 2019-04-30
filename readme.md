@@ -14,7 +14,7 @@ Be sure to change your sensitivity and stuff in prohl.cfg the `[Change to Your L
 The package includes an icon for your desktop for Half-Life. It'll launch Half-Life with rinput.exe for the most responsive mouse movement you've ever experienced. It also contains lots of optional models and VERY visible crosshairs. (***Note:*** The installer will replace your crosshairs and binds!)
 
 The config itself adds the following:
- - hard weapon binds (i.e. f = crossbow, 4 = shotgun, etc.)
+ - direct weapon binds (i.e. f = crossbow, 4 = shotgun, etc.)
  - mousewheel-down to jump (for bunnyhopping)
  - mousewheel-up to slide (rapid ducking preserves momentum on the ground)
  - uncapped framerate
