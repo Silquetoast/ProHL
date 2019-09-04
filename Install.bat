@@ -1,12 +1,14 @@
 @echo off
 echo Closing Half-Life...
 taskkill /IM hl.exe
+
 echo Backing up original files...
 copy "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\valve\config.cfg" "%userprofile%\desktop"
 ren "%userprofile%\desktop\config.cfg" backup.cfg
+
 echo Installing...
 copy "%cd%\contents\Half-Life.lnk" "%userprofile%\desktop"
-xcopy "%cd%\contents" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life" /s /y /q
+xcopy "%cd%\contents" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life" /s /y
 echo Cleaning up...
 del "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\unix2dos.exe"
 cls
