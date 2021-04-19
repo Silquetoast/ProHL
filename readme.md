@@ -1,12 +1,12 @@
 ## INSTALLATION:
 
-- **STEP 1:** Download the package **[here](https://github.com/Silquetoast/ProHL/releases/latest)** (or try the **[latest build](https://github.com/Silquetoast/ProHL/archive/master.zip)**) and extract to your desktop(or somewhere convenient to get to).
+- **STEP 1:** Download the package **[from here](https://github.com/Silquetoast/ProHL/releases/latest)** ([direct](https://github.com/Silquetoast/ProHL/archive/master.zip)) and extract to your desktop(or somewhere convenient to get to).
 
-- **STEP 2:** Move everything in the "contents" folder to your HL installation (for Steam, it should be `Steam\steamapps\common\Half-Life\`) except for the shortcut for HL, which should go on your desktop or somewhere easy to access. (if you don't use the shortcut to run the game, rinput will not activate)
+- **STEP 2:** Copy everything in the "contents" folder to your HL installation (aka the same folder where hl.exe should be) (for Steam, it should be `Steam\steamapps\common\Half-Life\`) except for the shortcut for HL, which should go on your desktop or somewhere easy to access. (if you don't use the shortcut to run the game, rinput will not activate)
 
 - **STEP 2 Alt:** You can also double click Install.bat to handle the file moving automatically (for Steam only, can be finicky)
 
-Be sure to change your sensitivity and stuff in prohl.cfg the `[Change to Your Liking]` section! Just edit the file "prohl.cfg" with Notepad or Notepad++.
+Be sure to change your sensitivity and stuff in prohl.cfg the `[Change to Your Liking]` section! Just edit the file "prohl.cfg" with Notepad or something. (my .cfg are spaced for N++)
 
 
 ## What do these files do?
@@ -14,7 +14,7 @@ Be sure to change your sensitivity and stuff in prohl.cfg the `[Change to Your L
 The package includes an icon for your desktop for Half-Life. It'll launch Half-Life with rinput.exe for the most responsive mouse movement you've ever experienced. It also contains lots of optional models and VERY visible crosshairs. (***Note:*** This will replace your crosshairs and binds! Back up your stuff.)
 
 The config itself adds the following:
- - direct weapon binds (i.e. f = crossbow, 4 = shotgun, the rest is written in the config...)
+ - direct weapon binds (i.e. f = crossbow, 4 = shotgun, the rest is written in ProHL.cfg)
  - mousewheel-down to jump (for bunnyhopping)
  - mousewheel-up to slide (rapid ducking preserves momentum on the ground)
  - uncapped framerate
