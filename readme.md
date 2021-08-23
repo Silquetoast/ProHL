@@ -6,23 +6,24 @@
 
 - **STEP 2 Alt:** You can also double click Install.bat to handle the file moving automatically (for Steam only, can be finicky)
 
-Be sure to look at the `[Change to Your Liking]` section! Just edit the file "prohl.cfg" with Notepad. (my .CFGs are spaced for N++)
+Be sure to look at the `[Change to Your Liking]` section! Just edit the file "prohl.cfg" with Notepad.
 
 
 ## What do these files do?
 
-The package includes an icon for your desktop for Half-Life. It'll launch Half-Life with rinput.exe, a program used by the speedrunning community for the most responsive mouse movement you'll ever experience in HL. It also contains lots of optional models and VERY visible crosshairs. (***Note:*** This will overwrite your crosshairs and binds with my own! Back up your stuff.)
+The package includes an icon for your desktop for Half-Life. It'll launch Half-Life with rinput.exe, a program used by the speedrunning community for the most responsive mouse movement you'll ever experience in HL. It also adds my crosshairs. (***Note:*** This will overwrite your crosshairs and binds with my own! Back up your stuff.)
 
 The config itself adds the following:
  - direct weapon binds (i.e. f = crossbow, 4 = shotgun, the rest is written in ProHL.cfg)
  - mousewheel-down to jump (for bunnyhopping)
  - mousewheel-up to slide (rapid ducking preserves momentum on the ground)
  - uncapped framerate
- - increased crosshair visibility
+ - increased crosshair visibility and other improvements to cvars
  
 The following are optional settings that have to be toggled on/off with the [ and ] keys:
- - hold-to-equip weapon binds (when you let go of the key, you'll go to last weapon)
- - some binds will fall back on other weapons if you don't have that gun (ie: shotgun falls back on egon or pistol, tau falls back on egon, ...)
- - pressing f will force the crossbow to unzoom (This only effects your vision and does not let you shoot faster. This can be done manually by pressing any weapon bind and F immediately after)
+ - hold-to-equip & hold-to-attack weapon binds (when you let go of the key, you'll go to last weapon)
+ - cycle some settigns like volume and FPS
+ - switch some binds on the fly
+ - adds a script to change mwheel functionality to check your inventory 
 
 My config does **not** add scripts for gauss movement, bunnyhopping, longjumping, or quick crossbow shots. Learning to do these things manually is better, you'll have learn to control the game better and you'll have more room for more useful binds.
